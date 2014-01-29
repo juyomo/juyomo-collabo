@@ -2,4 +2,7 @@ This is what I start with!
 
 Juyomo has added something to the file!
 
-Hehehehe. I think munatic's editing this file. While she's editing, I'll make more changes so that she'll have to merge conflicts!
+You know what, I can make changes too! -munatic
+
+"Hehehehe. I think munatic's editing this file. While she's editing, I'll make more changes so that she'll have to merge conflicts!"
+That's what I thought, but munatic committed her changes first. :(
